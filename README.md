@@ -7,12 +7,12 @@ The architecture of AML-Net is given in the following:
 ![AML_Net_proposed_model_02](https://github.com/user-attachments/assets/920be168-056f-4feb-b293-80ea5bb02cc1)
 
 
-Evaluation of the proposed model with other models
+Table: Evaluation of the proposed model with other models
 
 | Network                | IoU   | F-1 score | Sensitivity |
 |-------------------------|-------|-----------|-------------|
-| U-Net [7]              | 0.815 | 0.898     | 0.874       |
-| CU-Net [13]            | 0.813 | 0.896     | 0.924       |
-| PMED-Net [17]          | 0.795 | 0.886     | 0.906       |
-| RCA-IUnet [44]         | 0.775 | 0.873     | 0.864       |
+| U-Net                   | 0.815 | 0.898     | 0.874       |
+| CU-Net                 | 0.813 | 0.896     | 0.924       |
+| PMED-Net               | 0.795 | 0.886     | 0.906       |
+| RCA-IUnet              | 0.775 | 0.873     | 0.864       |
 | **Proposed model (AML-Net)** | **0.834** | **0.909** | **0.939** |
